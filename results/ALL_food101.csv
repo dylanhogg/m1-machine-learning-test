@@ -1,0 +1,8 @@
+,device,dataset_name,epochs,batch_size,num_train_samples,num_test_samples,total_train_time,time_per_epoch,model
+0,AMD Radeon Pro 5500M 8 GB (Intel Mac),food101,5,32,75776,25280,3032.461,606.492,EfficientNetB0_feature_extract
+0,TITAN RTX GPU,food101,5,32,75776,25280,463.753,92.751,EfficientNetB0_feature_extract
+0,Google Colab (K80 GPU),food101,5,32,75776,25280,2122.14,424.428,EfficientNetB0_feature_extract
+0,Apple M1,food101,5,32,75776,25280,3387.391,677.478,EfficientNetB0_feature_extract
+0,Apple M1 Pro,food101,5,32,75776,25280,1485.993,297.199,EfficientNetB0_feature_extract
+0,Apple M1 Max,food101,5,32,75776,25280,958.951,191.79,EfficientNetB0_feature_extract
+0,Apple M1 Max Dylan,food101,5,32,75776,25280,815.448,163.09,EfficientNetB0_feature_extract
